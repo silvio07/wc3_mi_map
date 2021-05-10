@@ -1,0 +1,29 @@
+Iniciar el programa
+
+1. git init (iniciar el git)
+2. git status (estado de mi repositorio y mi capeta)
+3. git add . (añadar cambios a mi repositorio)
+4. git commit -m "version Editable" (nombre a todos mis cambios)
+5. git push origin master (subir todo a mi repositorio)
+
+--------------------------------------------------------------------------------
+
+enlace:
+https://github.com/silvio07/wc3_mi_map.git (enlace de mi repositorio)
+
+------------------------------------------------------------------------------
+cuenta: 
+silvio07
+158968666Sni7er
+----------------------------------------------------------------------------------
+Comandos:
+git clone + url (clonar mi repositorio)
+git clone https://github.com/silvio07/wc3_mi_map.git
+
+git remote add origin (selecciona repositorio)
+git remote add origin https://github.com/silvio07/wc3_mi_map.git
+
+git config --global user.email "you@example.com" (Seleccionar email)
+git config --global user.name "Your Name" (seleccionar nombre)
+
+git log (ver cambios detallados en  mi repositorio)
